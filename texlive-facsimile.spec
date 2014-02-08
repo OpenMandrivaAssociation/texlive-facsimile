@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-facsimile
 Version:	1.0
-Release:	2
+Release:	3
 Summary:	Document class for preparing faxes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/facsimile

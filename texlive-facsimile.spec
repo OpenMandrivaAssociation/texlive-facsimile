@@ -1,6 +1,6 @@
 Name:		texlive-facsimile
 Version:	21328
-Release:	1
+Release:	2
 Summary:	Document class for preparing faxes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/facsimile
